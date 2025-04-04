@@ -1,4 +1,5 @@
-# 👋 Olá! Eu sou o João Buosi
+# 👋 [Olá! Eu sou o João Buosi](https://caminho-do-gif.gif)
+
 
 🎓 Estudante de **Ciências de Dados** na **Infinity School**  
 🔍 Apaixonado por tecnologia, dados, visualização e automações.  
