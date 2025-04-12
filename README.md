@@ -8,7 +8,9 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀Technologies and Tools
+
+---
 
 <img src="https://skillicons.dev/icons?i=python,html,js,vscode,github,blender,instagram,linkedin" />
 
