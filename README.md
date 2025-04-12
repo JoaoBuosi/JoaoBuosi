@@ -12,6 +12,6 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=python,html,js,vscode,github,blender,instagram,linkedin" />
+<img src="https://skillicons.dev/icons?i=python,html,js,c,css,vscode,github,blender,instagram,linkedin" />
 
 
