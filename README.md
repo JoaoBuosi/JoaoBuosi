@@ -4,9 +4,8 @@ Desenvolvedor em formação com foco em **Backend Java, APIs e Cloud/DevOps**.
 Atualmente construindo projetos reais utilizando **Java, Spring Boot, Docker, AWS e Kubernetes**, com forte preocupação em **arquitetura, boas práticas e documentação**.
 
 ---
-🚀 Objetivo Profissional
 
-Atuar como **Desenvolvedor Backend / Java Júnior**, evoluindo para Cloud & DevOps, participando de projetos reais, escaláveis e bem estruturados.
+**Desenvolvedor Backend / Java Júnior**, evoluindo para Cloud & DevOps, participando de projetos reais, escaláveis e bem estruturados.
 
 ---
 🧠 Stack Principal
