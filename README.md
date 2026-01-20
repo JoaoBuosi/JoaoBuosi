@@ -40,11 +40,6 @@ Atuar como **Desenvolvedor Backend / Java Júnior**, evoluindo para Cloud & DevO
 
 ---
 
-## 📈 Em evolução contínua
-Este GitHub representa minha **jornada de aprendizado**, com projetos que evoluem do básico até soluções completas usadas em ambientes reais.
-
----
-
 ## 📫 Contato
 - 📧 Email: joaovbuosi@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/joaovitorbuosi/
