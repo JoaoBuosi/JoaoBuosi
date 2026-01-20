@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,aiscript,vscode,github,blender,instagram,linkedin" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,aiscript,vscode,github,linkedin,java,docker,terraform,aws,kubernetes" />
 
 ![banner git hub](https://github.com/user-attachments/assets/71a03411-969f-457b-9844-7800914b109d)
 
