@@ -48,8 +48,8 @@ Atuar como **Desenvolvedor Backend / Java Júnior**, evoluindo para Cloud & DevO
 ## 🚀Technologies and Tools
 
 ---
-
-[![My Skills](https://skillicons.dev/icons?i=java,docker,terraform,aws,kubernetes,python,html,css,js,aiscript,vscode,github,linkedin,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,docker,terraform,aws,kubernetes,python,html,css,js,aiscript,vscode,github,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,docker,terraform,aws,kubernetes,python,html,css,js,aiscript,vscode,github,linkedin,flutter&perline=2)](https://skillicons.dev)
 
 ![banner git hub](https://github.com/user-attachments/assets/71a03411-969f-457b-9844-7800914b109d)
 
