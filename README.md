@@ -49,7 +49,7 @@ Atuar como **Desenvolvedor Backend / Java Júnior**, evoluindo para Cloud & DevO
 
 ---
 
-<img src="https://skillicons.dev/icons?i=java,docker,terraform,aws,kubernetes,n8n,python,html,css,js,aiscript,vscode,github,linkedin" />
+<img src="https://skillicons.dev/icons?i=java,docker,terraform,aws,kubernetes,python,html,css,js,aiscript,vscode,github,linkedin" />
 
 ![banner git hub](https://github.com/user-attachments/assets/71a03411-969f-457b-9844-7800914b109d)
 
