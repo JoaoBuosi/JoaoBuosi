@@ -25,19 +25,6 @@ Atualmente construindo projetos reais utilizando **Java, Spring Boot, Docker, AW
 - Orquestração com Kubernetes
 
 ---
-🧩 Projetos em Destaque
-🔹 **Sistema de Validação de Processo Seletivo (Java POO)**  
-> Modelagem orientada a objetos, regras de negócio e boas práticas.
-
-🔹 **API REST com Spring Boot** *(em desenvolvimento)*  
-> Arquitetura em camadas, validações, DTOs e persistência.
-
-🔹 **Deploy Cloud com Docker + AWS** *(em breve)*  
-> Containerização, deploy e automação de infraestrutura.
-
-📁 Veja todos os projetos nos meus repositórios.
-
----
 
 ## 📫 Contato
 - 📧 Email: joaovbuosi@gmail.com  
