@@ -1,41 +1,31 @@
-👋 Olá, eu sou o João Buosi
+# Olá, eu sou o João Buosi 👋
 
-Desenvolvedor em formação com foco em **Backend Java, APIs e Cloud/DevOps**.  
-Atualmente construindo projetos reais utilizando **Java, Spring Boot, Docker, AWS e Kubernetes**, com forte preocupação em **arquitetura, boas práticas e documentação**.
+Estudante de Engenharia de Software, em transição para **Desenvolvimento Backend com Java**, em busca da minha primeira oportunidade de **estágio**.
 
----
-
-**Desenvolvedor Backend / Java Júnior**, evoluindo para Cloud & DevOps, participando de projetos reais, escaláveis e bem estruturados.
-
----
-🧠 Stack Principal
-- **Linguagens:** Java, Python  
-- **Backend:** Spring Boot, APIs REST  
-- **Banco de Dados:** SQL (PostgreSQL/MySQL)  
-- **DevOps / Cloud:** Docker, AWS, Terraform, Kubernetes  
-- **Outros:** Git, GitHub, Linux, n8n (automação)
-
----
-📌 O que estou estudando atualmente
-- Java (POO, Estrutura de Dados)
-- Desenvolvimento Java & Cloud (Spring Boot, APIs, Arquitetura)
-- Docker e containers
-- AWS e Infraestrutura em Nuvem
-- Infra como Código (Terraform)
-- Orquestração com Kubernetes
+Gosto de entender o "porquê" por trás do código — boas práticas, arquitetura e documentação clara fazem parte de como eu estudo, não só "fazer funcionar".
 
 ---
 
-## 📫 Contato
-- 📧 Email: joaovbuosi@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/joaovitorbuosi/
-- 🧑‍💻 GitHub: https://github.com/JoaoBuosi
+### 🧠 Stack atual
 
-## 🚀Technologies and Tools
+- **Linguagens:** Java, Python
+- **Banco de Dados:** SQL (PostgreSQL/MySQL)
+- **Ferramentas:** Git, GitHub, Linux
+
+### 📌 Estudando agora
+
+- Java — POO e Estrutura de Dados
+- SQL na prática
+- Lógica de programação (exercícios em plataformas de algoritmos)
+
+> Stack que pretendo expandir conforme avanço: Spring Boot, Docker, APIs REST, AWS.
+
+
+### 📫 Contato
+
+- 📧 joaovbuosi@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaovitorbuosi/)
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=java,docker,terraform,aws,kubernetes,idea,devto,python,html,css,js,aiscript,vscode,git,github,linkedin)](https://skillicons.dev)
 
-
-![banner git hub](https://github.com/user-attachments/assets/71a03411-969f-457b-9844-7800914b109d)
-
+![Skills](https://skillicons.dev/icons?i=java,python,postgres,mysql,git,github,linux)
